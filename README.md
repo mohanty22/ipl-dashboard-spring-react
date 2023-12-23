@@ -4,16 +4,16 @@
 
 The IPL Dashboard App is a web application that allows users to browse their favorite IPL teams and access match results from previous years. The application is built using Spring Boot for the API, React for the frontend, Spring Batch for data ingestion, and HSQL DB for in-memory database storage. The dataset used for the application is sourced from Kaggle in CSV format.
 ## Screenshot
-# Home Page
+### Home Page
 ![IMG_20231223_190709](https://github.com/cumulo-autumn/StreamDiffusion/assets/92658723/178f10c7-40ba-414c-90a1-ed70cd092b45)
 
-# Team Page
+### Team Page
 ![IMG_20231223_190801](https://github.com/cumulo-autumn/StreamDiffusion/assets/92658723/937ac577-9cf2-40ac-bda1-6453fa667d3e)
 
-# Match Page
+### Match Page
 ![IMG_20231223_191032](https://github.com/cumulo-autumn/StreamDiffusion/assets/92658723/60ec38a5-699c-4405-84b4-b9c5261d74d5)
 
-## Video Demo
+### Video Demo
 
 [![Watch the video](https://img.youtube.com/vi/QQXQ4Osj1To/0.jpg)](https://www.youtube.com/watch?v=QQXQ4Osj1To&ab_channel=ManishMohanty)
 
